@@ -5,10 +5,14 @@ Bus reservation system deals with maintenance records of each passenger. It also
 Admin Module
 Bookings and cancellation Module
 Users Module
-Architecture
+# Architecture
+
+<img width="755" height="731" alt="Architecture" src="https://github.com/user-attachments/assets/a07cdc1c-4a24-4d4a-94a8-31c5f87bf4ac" />
+
 
 
 # Flow-chart
+<img width="628" height="861" alt="Flow-chart" src="https://github.com/user-attachments/assets/46eb57a8-d823-4dc7-986f-c6d71640c545" />
 
 
 # Focus on
