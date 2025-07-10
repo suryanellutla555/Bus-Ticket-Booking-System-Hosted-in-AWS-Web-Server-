@@ -16,8 +16,8 @@ Bus reservation system deals with maintenance records of each passenger. It also
 
 
 # Focus on:
--Online bus ticketing system
--Electronic payment system web development
--Online reservation system
--Routes plan
--Price and Seat plan
+-  Online bus ticketing system
+-  Electronic payment system web development
+-  Online reservation system
+-  Routes plan
+-  Price and Seat plan
